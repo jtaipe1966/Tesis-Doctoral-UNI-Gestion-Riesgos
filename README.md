@@ -1,51 +1,85 @@
-# Biblioteca científica de tesis doctoral — UNI
+# Biblioteca científica | Tesis doctoral UNI
 
 **Programa:** Doctorado en Administración con mención en Tecnología  
-**Tema de investigación:** Modelo de gestión integral de riesgos basado en inteligencia artificial para la toma de decisiones en proyectos de infraestructura pública del Perú.
-**Propósito:** Reunir y analizar literatura científica sobre riesgos integrados, inteligencia artificial y gestión de proyectos.
+**Línea de investigación:** Gestión integral y predictiva de riesgos mediante inteligencia artificial para proyectos de infraestructura pública en el Perú.
 
-## Índice de artículos disponibles
+> **Inventario:** seis archivos PDF registrados en `01_Papers_Cientificos`. Los enlaces dirigen a los archivos de este repositorio. El título y demás metadatos se verificarán directamente con cada publicación antes de concluir las fichas académicas.  
+> **Nota:** Para que una persona sin cuenta de GitHub vea los documentos, el repositorio debe ser público. Verificar las licencias de redistribución de cada artículo.
 
-| N.º | Artículo | Autores | Año | Área | PDF | DOI |
-|---|---|---|---|---|---|---|
-| 01 | Artificial intelligence in infrastructure construction: A critical review | Chen et al. | 2025 | IA e infraestructura | [Ver PDF](01_Papers_Cientificos/s42524-024-3128-5.pdf) | [10.1007/s42524-024-3128-5](https://doi.org/10.1007/s42524-024-3128-5) |
-| 02 | Artificial intelligence in risk management within the realm of construction projects: A bibliometric analysis and systematic literature review | Tian et al. | 2025 | IA y gestión de riesgos | [Ver PDF](01_Papers_Cientificos/1-s2.0-S2444569X25000617-main.pdf) | [10.1016/j.jik.2025.100711](https://doi.org/10.1016/j.jik.2025.100711) |
-| 03 | Risk-Based Completion Cost Overrun Ratio Estimation in Construction Projects Using Machine Learning Classification Algorithms: A Case Study | Turkyilmaz y Polat | 2024 | Sobrecostos y aprendizaje automático | [Ver PDF](01_Papers_Cientificos/buildings-14-03541.pdf) | [10.3390/buildings14113541](https://doi.org/10.3390/buildings14113541) |
+## Índice de artículos
 
-> **Alcance:** Este índice incluye los tres PDF identificados por sus nombres en la captura del repositorio. Los demás archivos que hayas subido pueden añadirse al conocer sus nombres exactos.
+Selecciona **Abrir PDF** para visualizar el artículo y **Ver ficha** para ir a su descripción bibliográfica.
 
-## Fichas bibliográficas
+| N.º | Artículo / identificación preliminar | Acceso al PDF | Ficha |
+|---|---|---|---|
+| 01 | Inteligencia artificial en la construcción de infraestructura: revisión crítica | [Abrir PDF](01_Papers_Cientificos/s42524-024-3128-5.pdf) | [Ver ficha](#paper-01) |
+| 02 | Inteligencia artificial aplicada a la gestión de riesgos en proyectos de construcción: revisión bibliométrica y sistemática | [Abrir PDF](01_Papers_Cientificos/1-s2.0-S2444569X25000617-main.pdf) | [Ver ficha](#paper-02) |
+| 03 | Estimación del riesgo de sobrecostos en proyectos de construcción mediante aprendizaje automático | [Abrir PDF](01_Papers_Cientificos/buildings-14-03541.pdf) | [Ver ficha](#paper-03) |
+| 04 | Interacciones entre riesgos y riesgos sistémicos en proyectos de infraestructura mediante aprendizaje automático | [Abrir PDF](01_Papers_Cientificos/1-s2.0-S0926580524005727-main.pdf) | [Ver ficha](#paper-04) |
+| 05 | Predicción de costos de finalización de proyectos de construcción basada en riesgos | [Abrir PDF](01_Papers_Cientificos/2025_16-ITcon-Turkyilmaz.pdf) | [Ver ficha](#paper-05) |
+| 06 | Artículo en español: archivo que comienza con `1861-Texto del artículo-11344-1-10-20250710` | [Localizar en carpeta](01_Papers_Cientificos/) | [Ver ficha](#paper-06) |
 
-### Paper 01. Inteligencia artificial en construcción de infraestructura
-**Referencia:** Chen, K., Zhou, X., Bao, Z., Skibniewski, M. J., & Fang, W. (2025). *Artificial intelligence in infrastructure construction: A critical review*. Frontiers of Engineering Management, 12(1), 24–38.  
-**DOI:** https://doi.org/10.1007/s42524-024-3128-5  
-**Resumen en español:** Revisión crítica del uso de inteligencia artificial en construcción de infraestructura. Destaca aplicaciones en supervisión de seguridad, control y gestión de procesos, así como retos relativos a los datos y la implementación tecnológica.  
-**Relación con la tesis:** Fundamenta la selección de tecnologías de IA y el diseño de un sistema de alerta temprana.  
-**Documento:** [Abrir PDF](01_Papers_Cientificos/s42524-024-3128-5.pdf)
+**Importante:** No se ha verificado la lista actual del repositorio. El enlace del PDF 06 se completará cuando se confirme el nombre *exacto* del archivo, que aparece truncado en la captura de pantalla de GitHub.
 
-### Paper 02. IA en la gestión de riesgos de proyectos de construcción
-**Referencia:** Tian, K., Zhu, Z., Mbachu, J. I. C., Ghanbaripour, A., & Moorhead, M. (2025). *Artificial intelligence in risk management within the realm of construction projects: A bibliometric analysis and systematic literature review*. Journal of Innovation & Knowledge, 10(3), 100711.  
-**DOI:** https://doi.org/10.1016/j.jik.2025.100711  
-**Resumen en español:** Revisión bibliométrica y sistemática que estudia aplicaciones de inteligencia artificial en distintas categorías de riesgos de construcción, como costos, seguridad, plazos, calidad y cadena de suministro.  
-**Relación con la tesis:** Aporta antecedentes para integrar varias dimensiones del riesgo y justificar el vacío de investigación.  
-**Documento:** [Abrir PDF](01_Papers_Cientificos/1-s2.0-S2444569X25000617-main.pdf)
+---
 
-### Paper 03. Estimación de sobrecostos mediante clasificación de aprendizaje automático
-**Referencia:** Turkyilmaz, A. H., & Polat, G. (2024). *Risk-Based Completion Cost Overrun Ratio Estimation in Construction Projects Using Machine Learning Classification Algorithms: A Case Study*. Buildings, 14(11), 3541.  
-**DOI:** https://doi.org/10.3390/buildings14113541  
-**Resumen en español:** Propone estimar la relación de sobrecostos al finalizar proyectos de construcción mediante métodos de clasificación de aprendizaje automático asociados a evaluaciones de riesgos.  
-**Relación con la tesis:** Orienta el desarrollo del módulo predictivo de desviación presupuestal.  
-**Documento:** [Abrir PDF](01_Papers_Cientificos/buildings-14-03541.pdf)
+## Paper 01
 
-## Líneas de revisión doctoral
+- **Archivo:** `s42524-024-3128-5.pdf`
+- **Título:** *Artificial intelligence in infrastructure construction: A critical review*.
+- **DOI:** https://doi.org/10.1007/s42524-024-3128-5
+- **Relevancia para la tesis:** Identificar aplicaciones de IA en infraestructura, sus limitaciones y oportunidades para gestionar riesgos.
+- **Autores, año, metodología, resultados y limitaciones:** Pendientes de cotejar con el PDF.
 
-1. Gestión integral e interdependencia de riesgos en infraestructura pública.
-2. Predicción de retrasos, sobrecostos e incidentes con aprendizaje automático.
-3. Inteligencia artificial explicable y modelos de apoyo a decisiones.
-4. Gobernanza, calidad de datos y transformación digital de las entidades públicas del Perú.
-5. Validación empírica y comparación con los métodos convencionales de gestión.
+## Paper 02
 
-## Nota académica
+- **Archivo:** `1-s2.0-S2444569X25000617-main.pdf`
+- **Título:** *Artificial intelligence in risk management within the realm of construction projects: A bibliometric analysis and systematic literature review*.
+- **DOI:** https://doi.org/10.1016/j.jik.2025.100711
+- **Relevancia para la tesis:** Organizar el estado del arte de IA y gestión del riesgo, identificando métodos y vacíos de investigación.
+- **Autores, resultados y limitaciones:** Pendientes de cotejar con el PDF.
 
-Los resúmenes son síntesis orientativas de los artículos. La evaluación crítica de metodología, muestra, métricas, limitaciones y calidad de evidencia debe documentarse en una matriz de revisión sistemática. Verificar la licencia de cada PDF antes de mantenerlo en un repositorio público.
+## Paper 03
 
+- **Archivo:** `buildings-14-03541.pdf`
+- **Título:** *Risk-Based Completion Cost Overrun Ratio Estimation in Construction Projects Using Machine Learning Classification Algorithms*.
+- **Fuente:** *Buildings*, 2024, volumen 14, artículo 3541.
+- **Referencia:** https://www.mdpi.com/2075-5309/14/11/3541
+- **Relevancia para la tesis:** Diseñar variables y métodos de predicción de riesgo presupuestal.
+- **Autores, resultados y limitaciones:** Pendientes de cotejar con el PDF.
+
+## Paper 04
+
+- **Archivo:** `1-s2.0-S0926580524005727-main.pdf`
+- **Título:** *Predicting and managing risk interactions and systemic risks in infrastructure projects using machine learning*.
+- **Fuente:** *Automation in Construction*, 2024.
+- **Referencia:** https://www.sciencedirect.com/science/article/pii/S0926580524005727
+- **Relevancia para la tesis:** Estudiar la interdependencia entre riesgos, núcleo de un sistema integral de alertas.
+- **Autores, resultados y limitaciones:** Pendientes de cotejar con el PDF.
+
+## Paper 05
+
+- **Archivo:** `2025_16-ITcon-Turkyilmaz.pdf`
+- **Título preliminar:** *Risk-based completion cost prediction approach in construction projects utilizing machine learning*.
+- **Fuente:** *ITcon*, 2025, artículo 16.
+- **Referencia:** https://www.itcon.org/paper/2025/16
+- **Relevancia para la tesis:** Predicción de costos y evaluación de desempeño de modelos.
+- **Autores, resultados y limitaciones:** Pendientes de cotejar con el PDF.
+
+## Paper 06
+
+- **Archivo:** `1861-Texto del artículo-11344-1-10-20250710...` **(nombre truncado en captura)**.
+- **Título, autores, año y DOI:** Pendientes de comprobar con el archivo completo.
+- **Relevancia para la tesis:** Pendiente de evaluar tras leer el documento.
+
+---
+
+## Matriz de análisis pendiente de completar
+
+Para cada investigación registrar: autores y año, revista, DOI, pregunta de investigación, variables, fuente de datos, algoritmo empleado, métricas de desempeño, hallazgos, limitaciones y contribución específica a la tesis doctoral.
+
+## Ubicación de documentos
+
+[Acceder a la carpeta de papers](01_Papers_Cientificos/)
+
+*Índice de seis artículos elaborado a partir del inventario visible. Las fichas bibliográficas requieren revisión de textos completos.*
