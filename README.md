@@ -1,7 +1,7 @@
 # Biblioteca científica de tesis doctoral — UNI
 
 **Programa:** Doctorado en Administración con mención en Tecnología  
-**Tema de investigación:** Modelo de gestión integral de riesgos basado en inteligencia artificial para la toma de decisiones en proyectos de infraestructura pública del Perú.  
+**Tema de investigación:** **Modelo de gestión integral de riesgos basado en inteligencia artificial para la toma de decisiones en proyectos de infraestructura pública del Perú.  **
 **Propósito:** Reunir y analizar literatura científica sobre riesgos integrados, inteligencia artificial y gestión de proyectos.
 
 ## Índice de artículos disponibles
